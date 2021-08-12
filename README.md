@@ -1,0 +1,1 @@
+This exercise is to practice writing some functions using script tag and testing the output with console.log! 
